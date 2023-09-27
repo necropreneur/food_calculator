@@ -1,0 +1,135 @@
+{
+  "Calcium, Ca": {
+    "name_ru": "Кальций",
+    "name_en": "Calcium",
+    "dri": 1,
+    "ul": 2.5
+  },
+  "Copper, Cu": {
+    "name_ru": "Медь",
+    "name_en": "Copper",
+    "dri": 0.0009,
+    "ul": 0.01
+  },
+  "Iron, Fe": {
+    "name_ru": "Железо",
+    "name_en": "Iron",
+    "dri": 0.008,
+    "ul": 0.045
+  },
+  "Magnesium, Mg": {
+    "name_ru": "Магний",
+    "name_en": "Magnesium",
+    "dri": 0.4,
+    "ul": 0.8
+  },
+  "Manganese, Mn": {
+    "name_ru": "Марганец",
+    "name_en": "Manganese",
+    "dri": 0.0023,
+    "ul": 0.011
+  },
+  "Phosphorus, P": {
+    "name_ru": "Фосфор",
+    "name_en": "Phosphorus",
+    "dri": 0.7,
+    "ul": 4
+  },
+  "Potassium, K": {
+    "name_ru": "Калий",
+    "name_en": "Potassium",
+    "dri": 3.4,
+    "ul": 4.7
+  },
+  "Selenium, Se": {
+    "name_ru": "Селен",
+    "name_en": "Selenium",
+    "dri": 0.000055,
+    "ul": 0.0004
+  },
+  "Sodium, Na": {
+    "name_ru": "Натрий",
+    "name_en": "Sodium",
+    "dri": 1.5,
+    "ul": 2.3
+  },
+  "Zinc, Zn": {
+    "name_ru": "Цинк",
+    "name_en": "Zinc",
+    "dri": 0.011,
+    "ul": 0.04
+  },
+
+  "Vitamin A, RAE": {
+    "name_ru": "Витамин A",
+    "name_en": "Vitamin A",
+    "dri": 0.0009,
+    "ul": 0.0018
+  },
+  "Thiamin": {
+    "name_ru": "Витамин B1",
+    "name_en": "Vitamin B1",
+    "dri": 0.0012,
+    "ul": 0.0024
+  },
+  "Riboflavin": {
+    "name_ru": "Витамин B2",
+    "name_en": "Vitamin B2",
+    "dri": 0.0013,
+    "ul": 0.0026
+  },
+  "Niacin": {
+    "name_ru": "Витамин B3",
+    "name_en": "Vitamin B3",
+    "dri": 0.016,
+    "ul": 0.032
+  },
+  "Pantothenic acid": {
+    "name_ru": "Витамин B5",
+    "name_en": "Vitamin B5",
+    "dri": 0.005,
+    "ul": 0.01
+  },
+  "Vitamin B-6": {
+    "name_ru": "Витамин B6",
+    "name_en": "Vitamin B6",
+    "dri": 0.0013,
+    "ul": 0.0026
+  },
+  "Vitamin B-12": {
+    "name_ru": "Витамин B12",
+    "name_en": "Vitamin B12",
+    "dri": 0.0000024,
+    "ul": 0.0000048
+  },
+  "Vitamin C, total ascorbic acid": {
+    "name_ru": "Витамин C",
+    "name_en": "Vitamin C",
+    "dri": 0.09,
+    "ul": 0.18
+  },
+  "Vitamin D (D2 + D3)": {
+    "name_ru": "Витамин D",
+    "name_en": "Vitamin D",
+    "dri": 0.0000009,
+    "ul": 0.000006
+  },
+  "Vitamin E (alpha-tocopherol)": {
+    "name_ru": "Витамин E",
+    "name_en": "Vitamin E",
+    "dri": 0.015,
+    "ul": 0.03
+  },
+  "Vitamin K (Dihydrophylloquinone)": {
+    "name_ru": "Витамин K",
+    "name_en": "Vitamin K",
+    "dri": 0.00012,
+    "ul": 0.00024
+  },
+  "Energy": {
+    "name_ru": "Килокалории",
+    "name_en": "Kilocalories",
+    "dri": 1700,
+    "ul": 2100
+  }
+}
